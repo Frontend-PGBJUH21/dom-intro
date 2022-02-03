@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #000000;
+}
+
+.btn-click {
+  padding: 20px 50px;
+  font-size: 30px;
+  font-weight: 600;
+  background-color: #6026ff;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn-click:hover {
+  background-color: #ff007b;
+}
+
+.message {
+  font-size: 40px;
+  font-weight: 600;
+  color: #6026ff;
+}
